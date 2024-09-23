@@ -1,0 +1,140 @@
+.navbar{
+	display:flex;
+	background-color:black;
+	width:900px;
+	
+}
+.text{
+	color:white;
+	margin:10px;
+	text-decoration:none;
+    margin-top:30px;	
+}
+.hero{
+	display:flex;
+	width;900px;	
+}
+.hero1{
+	width:400px;
+	height:430px;
+}
+.hero2{
+	width:50px;
+}
+.link{
+  margin:30px;	
+	margin-left:90px;
+	color:white;
+} 
+.register-button{
+	margin-left:10px;
+ 	background-color:green;
+	margin-top:30px;
+	
+}
+.refrences{
+	background-color:black;
+	width:900px;
+	height:100px;
+	display:flex;
+	color:white;
+    margin-top:-4px;
+}
+button{
+	background-color:white;
+	color:black
+	cursor:pointer;
+    margin-left:6px;
+	height:40px;
+	margin-top:20px;
+	border-color:white;
+	border-style:solid;
+	cursor:pointer;
+    width;20px;
+    margin-right:2px;	
+}
+.tags{
+	margin:50px;
+    margin-top:30px;	
+} 
+.body{
+	display:flex;
+	width:900px;
+	background-color:black;
+	height:300px;
+}
+.pics{
+	width:200px;
+	height:120px;
+	margin:5px;
+	border-color:white;
+	border-radius:4px;
+}
+.word{
+	color:black;
+	background-color:white;
+	width:200px;
+	margin-left:5px;
+}
+.date{
+	background-color:grey;
+	border-radius:8px;
+	height:20px;	
+}
+.body2{
+	display:flex;
+	background-color:black;
+	width:900px;
+	height:300px;	
+}
+.footer{
+	width:900px;
+	background-color:green;
+	margin-top:-22px;	
+}
+.order1{
+	width:300px;
+	border-color:black;
+	background-color:green;
+	height:30px;
+	margin-top:-20px;
+	
+}
+.order{
+	margin-left:15px;
+}
+.order2{
+	background-color:black;
+	color:green;
+	height:20px;
+	border-radius:2px;
+	border-color:black;
+	border-style:solid;
+}
+.footer2{
+	background-color:black;
+	width:900px;
+	display:flex;
+	height:430px;
+}
+.know{
+	color:green;
+	margin-top:30px;
+	margin:5px;
+}
+.last{
+	width:40px;
+	height:40px;
+    margin-top:20px;
+	margin-left:5px;
+}
+.learn{
+	color:white;
+	margin:10px;
+	margin-top:30px;
+}
+	
+
+
+	
+	
